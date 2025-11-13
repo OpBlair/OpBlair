@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Tonny Blair
-- 👀 I’m interested in web development, computer hardware and robotics, cybersecurity and tech for social impact.
-- 🌱 I’m currently learning computer science, front-end web development(HTML, CSS and JavaScript)
-- 💞️ I’m looking to collaborate on open source projects on web development, cybersecurity and robotics....
-- ⚡ Fun fact: I break bugs faster than I break promises. Most days. ohh I think I also have commitment Issues 😂😂
+👋 Hi, I’m Tonny Blair
 
-<!---
-Tonny-Blair-Daniel/Tonny-Blair-Daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about using code to solve problems and bring ideas to life. My interests include **web development, computer hardware & robotics, cybersecurity, and tech for social impact**.
+
+🌱 I’m currently learning **computer science** and sharpening my skills in **full-stack web development** (HTML, CSS, JavaScript) while exploring AI, networking, and server management.
+
+💞️ I’m open to collaborating on **open-source projects** in web development, cybersecurity, AI, and robotics.
+
+⚡ Fun fact: I break bugs faster than I break promises… most days. Oh, and I might have *slight* commitment issues 😂
+
